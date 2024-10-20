@@ -7,7 +7,7 @@ This guide will walk you through setting up Docker and Docker Compose on your Ub
 
 1. **Update the package list:**
    
-   sudo apt-get update
+                   sudo apt-get update
 
 
 3. **Install prerequisite packages:**
