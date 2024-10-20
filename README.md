@@ -12,11 +12,11 @@ This guide will walk you through setting up Docker and Docker Compose on your Ub
 
 3. **Install prerequisite packages:**
  
-   sudo apt-get install \
-       ca-certificates \
-       curl \
-       gnupg \
-       lsb-release
+                sudo apt-get install \
+                ca-certificates \
+                curl \
+                gnupg \
+                lsb-release
 
 
 4. **Add Docker's official GPG key:**
